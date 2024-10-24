@@ -1,7 +1,7 @@
-# Unix vyvojove prostredie
+# Unix - vyvojove prostredie
 
-[https://osmijanko.fri.uniza.sk:8000](https://osmijanko.fri.uniza.sk:8000)  
-[https://projecteuler.net/archives](https://projecteuler.net/archives)
+[Osmijanko - Jupyter Notebook Server](https://osmijanko.fri.uniza.sk:8000)  
+[Project Euler](https://projecteuler.net/archives)
 
 SSH port `7022`
 
